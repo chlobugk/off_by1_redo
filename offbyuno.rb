@@ -11,7 +11,9 @@ index_pos = 0
 		index_pos += 1
 	end
 
-		if num.length - check == 1
+	yay = num.length - 1 
+
+		if check == yay
 			true
 		else
 			false
